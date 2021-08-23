@@ -1,0 +1,2 @@
+# Getting-started-with-aspnetmvc-dashboard-layout
+The ASP.NET MVC Dashboard Layout is a grid-structured layout component that helps create static and dynamic dashboard layouts with panels. Dashboard panels are the basic building blocks of a dashboard and can be added programmatically or dynamically at runtime. The panels hold UI components and allow resizing, reordering, dragging and dropping, removing, and adding. This allows users to easily place components at the desired positions within the grid layout.
